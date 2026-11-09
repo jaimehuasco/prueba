@@ -147,7 +147,7 @@ Con el tema ajustado, el estudiante vuelve al paso 1 y agrega los términos nuev
 
 ## Paso 3. Verificar el carácter inédito
 
-El tema es inédito si no existe una revisión publicada ni un protocolo registrado con el mismo PCC (Población, Concepto, Contexto). Este paso se hace directamente en las bases y registros, no con la IA (inteligencia artificial), porque puede inventar revisiones que no existen.
+El tema es inédito si no existe una revisión publicada ni un protocolo registrado con el mismo PCC (Población, Concepto, Contexto). Este paso se hace directamente en las bases y registros, no con la IA, porque puede inventar revisiones.
 
 ### Método recomendado: verificación doble
 
