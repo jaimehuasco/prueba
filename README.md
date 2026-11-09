@@ -36,8 +36,6 @@ Mi tema provisional es: "Retroalimentación con inteligencia artificial en la es
 
 ### Fórmulas graduales en Scopus
 
-Cada nivel añade precisión; el estudiante anota cuántos resultados obtiene en cada uno.
-
 **Nivel 1 · simple.** Un término por elemento del PCC (Población, Concepto, Contexto).
 
 ```
@@ -67,8 +65,7 @@ AND ( LIMIT-TO ( LANGUAGE , "English" ) OR LIMIT-TO ( LANGUAGE , "Spanish" ) )
 
 ### El nivel 3 en las otras bases
 
-**ERIC (Education Resources Information Center).** Combina descriptores del tesauro con términos libres; el filtro de revisión por pares y los años se marcan en la interfaz.
-
+**ERIC (Education Resources Information Center).** 
 ```
 (descriptor:"Artificial Intelligence" OR "generative AI" OR ChatGPT OR "automated writing evaluation")
 AND (descriptor:"Feedback (Response)" OR "automated feedback")
@@ -76,8 +73,7 @@ AND (descriptor:"Writing Instruction" OR descriptor:"Writing Evaluation" OR "aca
 AND descriptor:"Higher Education"
 ```
 
-**SciELO (Scientific Electronic Library Online).** Requiere términos en español, portugués e inglés; el símbolo $ trunca las palabras.
-
+**SciELO (Scientific Electronic Library Online).** 
 ```
 ("inteligencia artificial" OR "inteligência artificial" OR "artificial intelligence" OR ChatGPT)
 AND (retroalimentación OR feedback OR "evaluación formativa")
@@ -86,7 +82,6 @@ AND (universit$ OR "educación superior" OR "ensino superior")
 ```
 
 **Dialnet.** Su buscador admite poca sintaxis booleana; funciona mejor con dos o tres búsquedas cortas entre comillas y los filtros de la búsqueda avanzada (artículos de revista, materia Educación, años).
-
 ```
 "inteligencia artificial" "escritura académica" retroalimentación
 "ChatGPT" "redacción académica" universitarios
