@@ -6,7 +6,7 @@ Antes de redactar una revisión de alcance (scoping review), el estudiante prepa
 
 Toda la guía sigue un mismo caso del campo de la educación: **la retroalimentación con IA (inteligencia artificial) en la escritura académica de estudiantes universitarios.**
 
-&#91;embedded content: Secuencia de actividades preparatorias · 3 pasos\]
+![Esquema de los tres pasos](esquema-pasos.png)
 
 Los pasos 1 y 2 se trabajan con IA (inteligencia artificial); el paso 3, solo en bases y registros. Siglas del esquema: PCC (Población, Concepto, Contexto), ERIC (Education Resources Information Center), SciELO (Scientific Electronic Library Online), OSF (Open Science Framework) y JBI (Joanna Briggs Institute).
 
