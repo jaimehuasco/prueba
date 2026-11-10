@@ -2,11 +2,9 @@
 
 Nov 8, 2026 · @JH
 
-Antes de redactar una revisión de alcance (scoping review), el estudiante prepara el terreno: construye fórmulas de búsqueda, ajusta su tema con abstracts reales y comprueba que nadie haya hecho ya la misma revisión.
+Antes de redactar una revisión de alcance (scoping review), el estudiante prepara el terreno: 
 
 ![Esquema de los tres pasos](esquema-pasos.png)
-
-Los pasos 1 y 2 se trabajan con IA (inteligencia artificial); el paso 3, solo en bases y registros. Siglas del esquema: PCC (Población, Concepto, Contexto), ERIC (Education Resources Information Center), SciELO (Scientific Electronic Library Online), OSF (Open Science Framework) y JBI (Joanna Briggs Institute).
 
 ## Paso 1. Construir fórmulas de búsqueda con IA
 
@@ -118,46 +116,23 @@ Con el tema ajustado, el estudiante vuelve al paso 1 y agrega los términos nuev
 
 El tema es inédito si no existe una revisión publicada ni un protocolo registrado con el mismo PCC (Población, Concepto, Contexto). Este paso se hace directamente en las bases y registros.
 
-### Método recomendado: verificación doble
+### Preservación de la originalidad
 
-1. **OSF Registries (Open Science Framework Registries).** Es la fuente más confiable para revisiones en curso, porque allí se registran los protocolos de scoping reviews antes de su publicación. Busca en [osf.io/registries](https://osf.io/registries) con dos o tres combinaciones cortas en inglés y español.
-2. **Scopus.** Localiza las revisiones ya publicadas. Une la fórmula del tema ajustado con los tipos de revisión en el campo del título.
-3. **Complemento.** Revisa JBI (Joanna Briggs Institute) Evidence Synthesis y Campbell Systematic Reviews, dos revistas especializadas en síntesis de evidencia; Campbell cubre educación.
+1. Actualización temporal: por ejemplo, si existe una revisión con cierta antigüedad, la nueva actualizaría el contenido.
+2. Modificación del marco: por ejemplo, si una investigación se realiza en población adulta, esta vez se ejecuta sobre población infantil.
+3. Ampliación de fuentes y rigor metodológico: por ejemplo, si una revisión buscó solo en una base, la nueve puede buscar en más bases.
 
-PROSPERO (International Prospective Register of Systematic Reviews), el registro más conocido, no sirve para este caso: no acepta scoping reviews y se centra en salud.
+### ¿Cómo verificar la existencia de una revisión previa?
+#### Verifica protocolos
+1. PROSPERO
+2. OSF 
+3. ResearchResgistry
+4. Figshare
+#### Búsqueda de revisiones ya publicadas
+1. Epistemonikos
+2. PubMed / MEDLINE
+3. Embase
+4. Scopus
+5. Web of Science
+6. Google Scholar
 
-### Búsquedas del caso
-
-**OSF Registries (Open Science Framework Registries):**
-
-```
-scoping review AI feedback writing
-systematic review ChatGPT academic writing feedback
-revisión retroalimentación inteligencia artificial escritura
-```
-
-**Scopus:** el filtro por título es más preciso que el filtro de tipo de documento, porque muchas scoping reviews figuran como artículos.
-
-```
-TITLE ( "scoping review" OR "systematic review" OR "literature review" OR "mapping review" OR "meta-analys*" )
-AND TITLE-ABS-KEY ( ( "artificial intelligence" OR "generative AI" OR chatgpt OR "automated writing evaluation" )
-AND ( feedback OR "feedback uptake" OR revision* )
-AND ( writing OR essay* ) )
-AND PUBYEAR > 2020
-```
-
-El límite desde 2021 sirve para este tema porque la IA (inteligencia artificial) generativa cambió el campo desde 2022; en otros temas conviene revisar los últimos cinco años.
-
-### Cómo decidir (ejemplo ilustrativo)
-
-El estudiante lee el título y el abstract de cada revisión hallada y compara su PCC (Población, Concepto, Contexto) con el propio.
-
-| Hallazgo | Decisión |
-| --- | --- |
-| Scoping review reciente con el mismo PCC | No es inédito: cambiar población, concepto o contexto |
-| Revisión sistemática sobre percepciones de estudiantes de inglés como lengua extranjera | Inédito con justificación: el caso estudia la revisión del texto, no las percepciones |
-| Protocolo en OSF Registries (Open Science Framework Registries) aún sin publicar | Leer el protocolo y ajustar el tema para no duplicarlo |
-| Revisión con el mismo PCC de hace más de cinco años | Inédito como actualización, sobre todo si el campo cambió |
-| Ningún resultado coincidente | Inédito: guardar capturas de las búsquedas con fecha |
-
-Las capturas con fecha y el número de resultados sirven como evidencia del carácter inédito en la introducción de la revisión.
