@@ -124,14 +124,14 @@ El tema es inédito si no existe una revisión publicada ni un protocolo registr
 
 ### ¿Cómo verificar la existencia de una revisión previa?
 #### Verifica protocolos
-1. PROSPERO
-2. OSF 
+1. PROSPERO - https://www.crd.york.ac.uk/prospero/
+2. OSF - https://osf.io/search
 3. ResearchResgistry
-4. Figshare
+4. Figshare - https://figshare.com/search
 #### Búsqueda de revisiones ya publicadas
-1. Epistemonikos
-2. PubMed / MEDLINE
-3. Embase
+1. Epistemonikos- https://www.epistemonikos.org/
+2. PubMed / MEDLINE - https://pubmed.ncbi.nlm.nih.gov/advanced/
+3. Embase 
 4. Scopus
 5. Web of Science
 6. Google Scholar
