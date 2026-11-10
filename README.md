@@ -99,10 +99,8 @@ El estudiante pega al menos 10 abstracts en la misma conversación del paso 1, y
 Te comparto 10 abstracts numerados que obtuve con las fórmulas anteriores.
 A partir de ellos:
 1. Identifica la población, el concepto y el contexto que más se repiten.
-2. Señala los términos clave que no estaban en mis fórmulas.
-3. Detecta qué aspectos casi no se estudian.
-4. Propón una versión ajustada de mi tema y de su PCC (Población, Concepto, Contexto).
-5. Indica el número del abstract que respalda cada afirmación.
+2. Propón una versión ajustada de mi tema y de su PCC (Población, Concepto, Contexto).
+3. Indica el número del abstract que respalda cada afirmación.
 No agregues información que no esté en los abstracts.
 
 [Abstract 1] Referencia APA + resumen
