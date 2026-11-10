@@ -4,8 +4,6 @@ Nov 8, 2026 · @JH
 
 Antes de redactar una revisión de alcance (scoping review), el estudiante prepara el terreno: 
 
-![Esquema de los tres pasos](esquema-pasos.png)
-
 ## Paso 1. Construir fórmulas de búsqueda con IA
 
 El estudiante entrega su tema provisional a una IA y obtiene fórmulas booleanas adaptadas a cada base.
