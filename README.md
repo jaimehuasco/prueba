@@ -36,20 +36,6 @@ Mi tema provisional es: "Retroalimentación con inteligencia artificial en la es
 
 ### Fórmulas graduales en Scopus
 
-**Nivel 1 · simple.** Un término por elemento del PCC (Población, Concepto, Contexto).
-
-```
-TITLE-ABS-KEY ( "artificial intelligence" AND feedback AND "academic writing" )
-```
-
-**Nivel 2 · con sinónimos.** Cada elemento se amplía con OR dentro de un paréntesis.
-
-```
-TITLE-ABS-KEY ( ( "artificial intelligence" OR "generative AI" OR chatgpt )
-AND ( feedback OR "formative assessment" )
-AND ( "academic writing" OR "writing skills" OR essay* ) )
-```
-
 **Nivel 3 · completo.** Incorpora la población, el truncamiento, la exclusión con NOT y los filtros de año, tipo y lengua.
 
 ```
