@@ -103,12 +103,12 @@ Supongamos que la IA (inteligencia artificial) devuelve estos hallazgos sobre lo
 
 |  | Tema provisional | Tema ajustado |
 | --- | --- | --- |
-| Enunciado | Retroalimentación con IA en la escritura académica de universitarios | Retroalimentación generada por IA y revisión de textos académicos en estudiantes universitarios: mapa de la evidencia 2018-2025 |
-| Población | Estudiantes universitarios | Estudiantes universitarios de pregrado, en lengua materna o extranjera |
-| Concepto | Retroalimentación con IA | Retroalimentación generada por IA y su incorporación en la revisión del texto |
-| Contexto | Escritura académica | Cursos de escritura académica en educación superior |
+| Enunciado | Retroalimentación con IA en la escritura académica de universitarios | Retroalimentación basada en IA para la producción escrita en inglés como lengua extranjera (EFL) en educación superior: una revisión de alcance |
+| Población | Estudiantes universitarios | Estudiantes universitarios en lengua extranjera |
+| Concepto | Retroalimentación con IA | Retroalimentación basada en IA para la producción escrita |
+| Contexto | Escritura académica | escritura académica en lengua extranjera en educación superior |
 
-Con el tema ajustado, el estudiante vuelve al paso 1 y agrega los términos nuevos al nivel 3 de sus fórmulas.
+Con el tema ajustado, el estudiante vuelve al paso 1 y agrega los términos nuevos a sus fórmulas.
 
 ## Paso 3. Verificar el carácter inédito
 
@@ -122,15 +122,10 @@ El tema es inédito si no existe una revisión publicada ni un protocolo registr
 
 ### ¿Cómo verificar la existencia de una revisión previa?
 #### Verifica protocolos
-1. PROSPERO - https://www.crd.york.ac.uk/prospero/
-2. OSF - https://osf.io/search
-3. ResearchResgistry
-4. Figshare - https://figshare.com/search
+1. OSF - https://osf.io/search | Búsqueda directa por términos del título (en inglés) 
 #### Búsqueda de revisiones ya publicadas
-1. Epistemonikos- https://www.epistemonikos.org/
-2. PubMed / MEDLINE - https://pubmed.ncbi.nlm.nih.gov/advanced/
-3. Embase 
-4. Scopus
-5. Web of Science
-6. Google Scholar
+1. Scopus | búsqueda avanzada
+2. Eric | búsqueda avanzada
+3. Web of Science | búsqueda avanzada
+4. Google Scholar | búsqueda avanzada
 
