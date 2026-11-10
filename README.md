@@ -2,9 +2,7 @@
 
 Nov 8, 2026 · @JH
 
-Antes de redactar una revisión de alcance (scoping review), el estudiante prepara el terreno en tres pasos: construye fórmulas de búsqueda, ajusta su tema con abstracts reales y comprueba que nadie haya hecho ya la misma revisión.
-
-Toda la guía sigue un mismo caso del campo de la educación: **la retroalimentación con IA (inteligencia artificial) en la escritura académica de estudiantes universitarios.**
+Antes de redactar una revisión de alcance (scoping review), el estudiante prepara el terreno: construye fórmulas de búsqueda, ajusta su tema con abstracts reales y comprueba que nadie haya hecho ya la misma revisión.
 
 ![Esquema de los tres pasos](esquema-pasos.png)
 
@@ -12,7 +10,7 @@ Los pasos 1 y 2 se trabajan con IA (inteligencia artificial); el paso 3, solo en
 
 ## Paso 1. Construir fórmulas de búsqueda con IA
 
-El estudiante entrega su tema provisional a una IA (inteligencia artificial) y obtiene fórmulas booleanas en tres niveles, de lo simple a lo complejo, adaptadas a cada base.
+El estudiante entrega su tema provisional a una IA y obtiene fórmulas booleanas adaptadas a cada base.
 
 **Tema provisional del caso:** retroalimentación con IA (inteligencia artificial) en la escritura académica de estudiantes universitarios.
 
@@ -26,17 +24,16 @@ El estudiante entrega su tema provisional a una IA (inteligencia artificial) y o
 
 ```markdown
 Actúa como especialista en revisiones de alcance (scoping reviews) en educación.
-Mi tema provisional es: "Retroalimentación con inteligencia artificial en la escritura académica de estudiantes universitarios".
+Mi tema provisional es "Retroalimentación con inteligencia artificial en la escritura académica de estudiantes universitarios".
 1. Desglosa el tema según el marco PCC (Población, Concepto, Contexto).
 2. Para cada elemento, propón sinónimos en inglés, español y portugués.
-3. Genera fórmulas booleanas en tres niveles: nivel 1 simple, nivel 2 con sinónimos, nivel 3 completo con campos, truncamiento, filtros y NOT.
-4. Adapta el nivel 3 a la sintaxis de Scopus, ERIC, SciELO y Dialnet.
-5. Explica en una línea qué cambia de un nivel a otro.
+3. Genera fórmulas booleanas con campos, truncamiento, filtros y NOT.
+4. Adapta la sintaxis de Scopus, ERIC, SciELO y Dialnet.
 ```
 
-### Fórmulas graduales en Scopus
+### Ejemplo de fórmulas
 
-**Nivel 3 · completo.** Incorpora la población, el truncamiento, la exclusión con NOT y los filtros de año, tipo y lengua.
+**Scopus
 
 ```
 TITLE-ABS-KEY ( ( "artificial intelligence" OR "generative AI" OR "large language model*" OR chatgpt OR "automated writing evaluation" )
@@ -48,8 +45,6 @@ AND PUBYEAR > 2017
 AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
 AND ( LIMIT-TO ( LANGUAGE , "English" ) OR LIMIT-TO ( LANGUAGE , "Spanish" ) )
 ```
-
-### El nivel 3 en las otras bases
 
 **ERIC (Education Resources Information Center).** 
 ```
@@ -81,17 +76,9 @@ AND (universit$ OR "educación superior" OR "ensino superior")
 | Entre 100 y 2000 | Fórmula adecuada para explorar el tema |
 | Menos de 30 | Bajar de nivel o sumar sinónimos con OR |
 
-La IA (inteligencia artificial) propone la sintaxis, pero el estudiante la prueba en cada base y corrige los errores que la plataforma señale.
-
 ## Paso 2. Perfilar el tema con los abstracts
 
-El estudiante pega al menos 10 abstracts en la misma conversación del paso 1, y la IA (inteligencia artificial) ajusta el tema a lo que la literatura realmente estudia.
-
-### Antes de pegar
-
-1. Elige abstracts de las cuatro bases, no solo de Scopus.
-2. Numera cada abstract y agrega su referencia en formato APA (American Psychological Association).
-3. Pega solo el resumen, sin el artículo completo.
+El estudiante pega al menos 10 abstracts en la misma conversación del paso 1, y la IA ajusta el tema a lo que la literatura realmente estudia.
 
 ### Prompt modelo
 
@@ -106,8 +93,6 @@ No agregues información que no esté en los abstracts.
 [Abstract 1] Referencia APA + resumen
 [Abstract 2] ...
 ```
-
-La instrucción 5 permite que el estudiante compruebe cada afirmación de la IA (inteligencia artificial) en el abstract correspondiente.
 
 ### Ejemplo de respuesta (ilustrativo)
 
@@ -131,7 +116,7 @@ Con el tema ajustado, el estudiante vuelve al paso 1 y agrega los términos nuev
 
 ## Paso 3. Verificar el carácter inédito
 
-El tema es inédito si no existe una revisión publicada ni un protocolo registrado con el mismo PCC (Población, Concepto, Contexto). Este paso se hace directamente en las bases y registros, no con la IA, porque puede inventar revisiones.
+El tema es inédito si no existe una revisión publicada ni un protocolo registrado con el mismo PCC (Población, Concepto, Contexto). Este paso se hace directamente en las bases y registros.
 
 ### Método recomendado: verificación doble
 
@@ -176,18 +161,3 @@ El estudiante lee el título y el abstract de cada revisión hallada y compara s
 | Ningún resultado coincidente | Inédito: guardar capturas de las búsquedas con fecha |
 
 Las capturas con fecha y el número de resultados sirven como evidencia del carácter inédito en la introducción de la revisión.
-
-## Lista de cotejo del estudiante
-
-Marca cada tarea al completarla; las tres actividades están listas cuando todas las casillas tienen marca.
-
-- [ ] Desglosé mi tema provisional según el PCC (Población, Concepto, Contexto).
-- [ ] Obtuve fórmulas de nivel 1, 2 y 3, y anoté el número de resultados de cada una.
-- [ ] Probé el nivel 3 en Scopus, ERIC (Education Resources Information Center), SciELO (Scientific Electronic Library Online) y Dialnet.
-- [ ] Seleccioné al menos 10 abstracts numerados y con referencia APA (American Psychological Association).
-- [ ] Comparé cada afirmación de la IA (inteligencia artificial) con el abstract que la respalda.
-- [ ] Redacté el tema ajustado y actualicé mis fórmulas con los términos nuevos.
-- [ ] Busqué protocolos en OSF Registries (Open Science Framework Registries).
-- [ ] Busqué revisiones publicadas en Scopus con el filtro por título.
-- [ ] Guardé capturas con fecha de las búsquedas de verificación.
-- [ ] Justifiqué por escrito el carácter inédito de mi tema.
